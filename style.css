@@ -1,9 +1,9 @@
 
 
-body {background-color:  }
+body {background-color: grey  }
 
 .orionm{text-align: center;
-  background-color: grey;
+  background-color: darkgrey;
   border-radius: 50px;
 width: px;
   height: ;
@@ -28,13 +28,14 @@ text-align: center;
 width: 200px;
 display: inline-block;
   left: 45%;
-  top: 45%;
+  top: 40%;
 position: absolute; }
 
 .phonenumber{text-align: right;
 display: inline-block;
 border: solid orange;
-float: right;}
+float: right;
+color: orange}
 
 .address{display: inline-block;
 text-align: left; 
@@ -63,4 +64,7 @@ display: inline;
 top: px;
 left: 560px;}
 
-.chipotle{height: 100px}
+.chipotle{height: 100px;}
+
+.bowlero{height: 150px;}
+
