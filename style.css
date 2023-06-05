@@ -28,7 +28,7 @@ text-align: center;
 width: 200px;
 display: inline-block;
   left: 45%;
-  top: 40%;
+  top: 37%;
 position: absolute; }
 
 .phonenumber{text-align: right;
@@ -49,22 +49,29 @@ text-align: center;
   
 }
 
-.instagram{border: solid 
-float: left
-display: inline;
+.instagram{ 
+position: absolute;
+left: 30%;
+  top: 40%;
 }
 
 .linkedin{float: right;
-display: inline;
+position: absolute;
+  left: 70%;
+  top: 40%;
   
 }
 
-.parkcenter{height: 200px;
+.parkcenter{height: 150px;
   position: absolute;
 top: px;
-left: 560px;}
+left: 580px;
+border-radius: 50px;}
 
-.chipotle{height: 100px;}
+.chipotle{height: 50px;}
 
-.bowlero{height: 150px;}
+.bowlero{height: 50px;}
 
+
+
+.bostonsci {height: 50px;}
